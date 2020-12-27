@@ -1,2 +1,2 @@
-# CreateWebtoon
-webtoon project for yourself
+# CaC
+Create A Comics
